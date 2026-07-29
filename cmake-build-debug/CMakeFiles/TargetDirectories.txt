@@ -1,0 +1,3 @@
+/home/rudra/Projects/espscreen/eSPCREEN/cmake-build-debug/CMakeFiles/eSPCREEN.dir
+/home/rudra/Projects/espscreen/eSPCREEN/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rudra/Projects/espscreen/eSPCREEN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
