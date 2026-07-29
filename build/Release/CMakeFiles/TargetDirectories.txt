@@ -1,3 +1,0 @@
-/home/rudra/Projects/espscreen/eSPCREEN/build/Release/CMakeFiles/eSPCREEN.dir
-/home/rudra/Projects/espscreen/eSPCREEN/build/Release/CMakeFiles/edit_cache.dir
-/home/rudra/Projects/espscreen/eSPCREEN/build/Release/CMakeFiles/rebuild_cache.dir
